@@ -1,6 +1,4 @@
-## Getting Started
-
-First, run the development server:
+## Getting Started RAMI
 
 ```bash
 # ya si rami exucuter had code bech t cree new project
